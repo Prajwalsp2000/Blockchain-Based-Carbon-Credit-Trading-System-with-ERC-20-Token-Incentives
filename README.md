@@ -78,43 +78,43 @@ npm start
 # Output
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/0a0ee0ae-b4a4-45a3-96a0-7bb84ea94dcd" alt="Screenshot (340)" width="1500" height="800"/>
+   <img src="https://github.com/user-attachments/assets/6e757a4c-a46b-4605-9663-7153ec42c849" alt="Screenshot (340)" width="1500" height="800"/>
   <br>
   <em>Fig 1: Company Dashboard Interface. </em>
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/bbfbcebb-c016-4c82-92a1-cae89f859217" alt="Screenshot (335)" width="1500" height="800"/>
+    <img src="https://github.com/user-attachments/assets/84f969bf-4d89-424e-8bf1-579a1d6e97de" alt="Screenshot (335)" width="1500" height="800"/>
   <br>
   <em>Fig 2: MetaMask Authentication for Emission Submission. </em>
 </p>
 
 <p align="center">
-     <img src="https://github.com/user-attachments/assets/ac8d4775-f977-4fca-9aa9-22dec27d017a" alt="Screenshot (334)" width="1500" height="800"/>
+     <img src="https://github.com/user-attachments/assets/59b1e117-fcd3-4b49-9aa0-92e2644733a9" alt="Screenshot (334)" width="1500" height="800"/>
   <br>
   <em>Fig 3: Updated Company Interface after Emission Submission. </em>
 </p>
 
 <p align="center">
-     <img src="https://github.com/user-attachments/assets/8f56aeb4-2f37-440c-96f3-1eb31d0e3d8f" alt="Screenshot (341)" width="1500" height="800"/>
+     <img src="https://github.com/user-attachments/assets/49a9e8d6-a153-49f2-bf94-88b6cdb95a9f"" alt="Screenshot (341)" width="1500" height="800"/>
   <br>
   <em>Fig 4: Marketplace Interface for Carbon Credit Trading. </em>
 </p>
 
 <p align="center">
-     <img src="https://github.com/user-attachments/assets/5d9bab48-82b4-41a8-9757-564c5003caa8" alt="Screenshot (338)" width="1500" height="800"/>
+     <img src="https://github.com/user-attachments/assets/84fb55c8-0a49-41e7-a021-12245ebe3d6a" alt="Screenshot (338)" width="1500" height="800"/>
   <br>
   <em>Fig 5: MetaMask Authentication for Credit Purchase. </em>
 </p>
 
 <p align="center">
-     <img src="https://github.com/user-attachments/assets/a584208f-6482-4871-b9c9-56fc6d91b932" alt="Screenshot 2026-07-09 195016" width="1500" height="800"/>
+     <img src="https://github.com/user-attachments/assets/dd184b71-8ff5-49cf-b0b3-56a9def912bf" alt="Screenshot 2026-07-09 195016" width="1500" height="800"/>
   <br>
   <em>Fig 6: Marketplace Interface after Partial Credit Purchase. </em>
 </p>
 
 <p align="center">
-     <img src="https://github.com/user-attachments/assets/bf130a53-194b-471a-87a3-d6f6fc8fe596" alt="Gemini_Generated_Image_johiftjohiftjohi" width="1500" height="800"/>
+     <img src="https://github.com/user-attachments/assets/9202a746-e5d6-415f-afcd-03097835a026" alt="Gemini_Generated_Image_johiftjohiftjohi" width="1500" height="800"/>
   <br>
   <em>Fig 7: Multiple Listings and Partial Transactions in Marketplace. </em>
 </p>
